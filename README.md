@@ -1,1 +1,1 @@
-This is a simple to do application made in python using tkinter framework. This is my first task of CodSoft virtual of Python Programming language.
+Here i will upload all the tasks i have been assigned by CodSoft in my virtual internship in Python programming language.
